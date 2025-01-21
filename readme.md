@@ -16,7 +16,7 @@ A simple web-based currency converter application that allows users to convert a
 
 1. Clone the repository or download the source files.
     ```bash
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/Samyakshawarmaah/Currency_Converter.git
     ```
 2. Navigate to the project directory.
     ```bash
@@ -62,9 +62,7 @@ Currency-Converter/
 ├── index.html         # Main HTML file
 ├── style.css          # Custom CSS styles
 ├── script.js          # JavaScript for functionality
-├── README.md          # Project documentation
-└── assets/            # Optional: Place for additional assets (e.g., images)
-
+└── README.md          # Project documentation      
 
 ## License
 This project is open-source and available under the MIT License.
